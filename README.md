@@ -5,6 +5,8 @@ Tis app is developed by Yuxuan Qi.
 
 This app is applicable to Matlab 2016 and above.
 
+This app adopts Chinese GUI.
+
 This is an incomplete version.
 
 This code is for reference only, and the author does not guarantee the correctness of the code results.
